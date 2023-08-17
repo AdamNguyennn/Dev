@@ -1,3 +1,11 @@
+## Changed Files for requirements below:
+- All changed files: 
+  + src/base/settings.py
+  + src/common/customMessage.py
+  + src/data/views.py
+  + src/data/serializers.py
+  + src/data/models.py
+
 ## Requirements overview
 
 ### Project Overview
